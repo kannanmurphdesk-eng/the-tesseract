@@ -13,7 +13,7 @@ a{color:var(--acc2)}
 .eyebrow{letter-spacing:.25em;text-transform:uppercase;color:var(--gold);font-size:.8rem;font-weight:600}
 h1{font-size:clamp(3.2rem,9vw,6.5rem);background:linear-gradient(180deg,#fff,var(--acc));-webkit-background-clip:text;background-clip:text;color:transparent}
 .tag{font-family:"Cormorant Garamond",serif;font-size:1.7rem;margin:0;color:var(--acc)}.by{color:var(--mut);margin:.3rem 0 1.2rem}.by strong{color:var(--ink)}.lede{font-size:1.15rem;max-width:34em;margin-bottom:2rem}
-.cover{position:relative;perspective:1200px}.cover img{width:100%;max-width:420px;display:block;margin:auto;border-radius:6px 14px 14px 6px;box-shadow:-12px 20px 60px #000c,0 0 80px #7a5cff55;transform:rotateY(-10deg);transition:transform .6s}.cover:hover img{transform:rotateY(0)}
+.cover{position:relative;perspective:1200px}.cover img{width:100%;max-width:300px;display:block;margin:auto;border-radius:6px 14px 14px 6px;box-shadow:-12px 20px 60px #000c,0 0 80px #7a5cff55;transform:rotateY(-10deg);transition:transform .6s}.cover:hover img{transform:rotateY(0)}
 .cube{position:absolute;inset:-8%;border:1px solid #b9a4ff40;transform:rotate(45deg) scale(.8);animation:spin 40s linear infinite;z-index:-1}.cube::after{content:"";position:absolute;inset:18%;border:1px solid #5ee1ff40}
 @keyframes spin{to{transform:rotate(405deg) scale(.8)}}
 .wrap{max-width:780px;margin:auto;padding:5rem 6vw}.wrap.wide{max-width:1180px}
