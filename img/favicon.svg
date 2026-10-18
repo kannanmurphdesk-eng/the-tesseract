@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="12" fill="#0b0b1e"/><g fill="none" stroke="#b9a4ff" stroke-width="3"><rect x="10" y="10" width="32" height="32"/><rect x="22" y="22" width="32" height="32"/><path d="M10 10l12 12M42 10l12 12M10 42l12 12M42 42l12 12"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="36 21 458 406" role="img" aria-label="The Tesseract logo">
+<rect x="40" y="25" width="257" height="257" fill="#FFB12E" opacity=".92"/>
+<rect x="168" y="63" width="257" height="257" fill="#FF5C6C" opacity=".88"/>
+<rect x="104" y="166" width="257" height="257" fill="#4F6BFF" opacity=".88"/>
+<rect x="233" y="127" width="257" height="257" fill="#2CCDB4" opacity=".88"/>
+</svg>
