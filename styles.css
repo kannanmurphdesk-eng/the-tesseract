@@ -36,3 +36,4 @@ footer{text-align:center;padding:3rem 1.5rem;background:var(--bg-alt);border-top
 footer .logo{color:var(--accent);font-size:1.4rem;font-weight:700}
 .muted{color:var(--text-muted);font-size:.85rem}
 @media(max-width:720px){.featured,.author{flex-direction:column;text-align:center}.featured img{width:100%}.featured .card-body{padding:1.5rem}.author img{width:160px;height:160px}}
+.site-logo{display:block;margin:0 auto 1rem;width:72px;height:auto}
